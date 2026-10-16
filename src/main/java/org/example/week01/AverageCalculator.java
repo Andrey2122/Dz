@@ -1,4 +1,4 @@
-package org.example;
+package org.example.week01;
 
 import java.io.PrintStream;
 import java.util.Scanner;
