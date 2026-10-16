@@ -1,4 +1,4 @@
-package org.example;
+package org.example.week01;
 
 import java.util.Scanner;
 
@@ -12,6 +12,6 @@ public class Countdown {
             n--;
 
         }
-        System.out.println("Старт");   
+        System.out.println("Старт");
     }
 }
