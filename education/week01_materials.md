@@ -87,7 +87,7 @@
 ### Пт 16.10 — FizzBuzz + палиндром + чек-лист
 1. [x] `FizzBuzz.java` — 1–100: Fizz/Buzz/FizzBuzz
 2. [ ] `PalindromeChecker.java` — проверить палиндром через `StringBuilder.reverse()`
-3. [ ] `Checklist.java` — консольное меню (добавить/показать/выйти)
+3. [x] `Checklist.java` — консольное меню (добавить/показать/выйти)
 
 ---
 
